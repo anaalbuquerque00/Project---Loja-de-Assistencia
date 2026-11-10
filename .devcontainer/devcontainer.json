@@ -1,0 +1,10 @@
+{
+  "name": "Assistência Técnica",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:24-bookworm",
+  "hostRequirements": { "cpus": 2 },
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": { "label": "Aplicação", "onAutoForward": "openBrowser" }
+  },
+  "postCreateCommand": "npm install"
+}
