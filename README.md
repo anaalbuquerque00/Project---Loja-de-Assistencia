@@ -1,12 +1,6 @@
-# Assistência Técnica — repositório-modelo
+# Assistência Técnica — repositório-loja-assistencia-tecnica
 
-Ponto de partida do projeto da UC00615.
-
-## Abrir no GitHub Codespaces
-
-1. Na página deste repositório no GitHub, carregue no botão verde **Code**.
-2. Escolha o separador **Codespaces** e carregue em **Create codespace on main**.
-3. Espere que o ambiente termine de preparar (a primeira vez demora 1–3 minutos). O VS Code abre no browser e as dependências são instaladas automaticamente.
+Projeto desenvolvido no curso da Tech Academy
 
 ## Arrancar a aplicação
 
